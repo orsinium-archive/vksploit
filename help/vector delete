@@ -1,0 +1,4 @@
+vector delete <user_id>
+vector delete <user_id_1> <user_id_2> ... <user_id_n>
+
+Удаляет источник из списка доступных.

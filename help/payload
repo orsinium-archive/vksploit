@@ -1,0 +1,13 @@
+payload list
+	Выводит список доступных нагрузок
+payload info
+payload info <paiload_name>
+	Выводит информацию о выбранной нагрузке.
+payload use <payload_name>
+	Выбирает нагрузку для использования в дальнейшей атаке. 
+	Можно и нужно выбрать только одну нагрузку.
+payload set <var_name> <var_value>
+payload set <var_name> <value_1> <value_2> ... <value_n>
+	Устанавливает значение переменной, используемой в нагрузке
+payload start
+	Запускает нагрузку.

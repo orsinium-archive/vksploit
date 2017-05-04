@@ -1,0 +1,4 @@
+payload set <var_name> <value>
+payload set <var_name> <value_1> <value_2> ... <value_n>
+
+Устанавливает значение переменной, используемой в нагрузке
